@@ -5,8 +5,8 @@ This repository contains the computational appendix for the capstone on narrativ
 
 # Repository Content
 ## 1. Core Files
-data_analysis.ipynb: Main Jupyter Notebook with full analysis
+`data_analysis.ipynb`: Main Jupyter Notebook with full analysis
 
-allegory.xlsx: Processed responses from the allegorical film (control) group
+`allegory.xlsx`: Processed responses from the allegorical film (control) group
 
-wwf.xlsx: Processed responses from the WWF documentary group
+`wwf.xlsx`: Processed responses from the WWF documentary group
